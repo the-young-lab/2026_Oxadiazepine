@@ -1,0 +1,21 @@
+HRMS for compounds 14a, 14b, 15a, 15b, 16a, 17a, 18a, 19a, 19b, 20a, 20b, 21a, 21b, 22a, 22b, 25a, and 25b was collected externally and therefore RAW files for these spectra could not be obtained. Instead, the obtained MS report is included in this folder which includes the data for the listed compounds. 
+
+Compound LOT# Key for Reference:
+LOT#	Compound#
+MR105	14a
+MR108	14b
+MR56	15a
+MR59	15b
+MR63	16a
+MR73	17a
+MR99	18a
+MR92	19a
+MR101	19b
+MR116	20a
+MR120	20b
+MR111	21a
+MR119	21b
+MR113	22a
+MR115	22b
+MR89	25a
+MR96	25b
