@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2025-11-25T17:06:51">
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user" date="2025-10-29T15:55:45" expNo="1" name="63_clean2_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>F1=146.697800ppm, F2=145.520676ppm, MI=0.27cm, MAXI=1.39cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="145.2487849417628" intensity="0.3667842" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user" date="2025-10-29T15:55:45" expNo="1" name="63_clean2_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>F1=135.557144ppm, F2=127.263214ppm, MI=0.17cm, MAXI=3.13cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="132.29268494176281" intensity="2.11118" type="0"/>
+    <Peak1D F1="131.55301494176283" intensity="1.659687" type="0"/>
+    <Peak1D F1="131.19775994176283" intensity="1.658498" type="0"/>
+    <Peak1D F1="129.98433494176282" intensity="1.814178" type="0"/>
+    <Peak1D F1="126.98440394176282" intensity="0.4816692" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user" date="2025-10-29T15:55:45" expNo="1" name="63_clean2_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>F1=127.263214ppm, F2=122.739258ppm, MI=1.39cm, MAXI=3.35cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="124.35095794176281" intensity="2.917117" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user" date="2025-10-29T15:55:45" expNo="1" name="63_clean2_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>F1=122.146835ppm, F2=118.376869ppm, MI=0.34cm, MAXI=3.67cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="119.26160994176281" intensity="2.991236" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user@FS109819294377" date="2025-10-29T15:57:32" expNo="1" name="63_clean2_13C_CDCl3_TFA" owner="nmr_user" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>Manually picked peaks
+</PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="131.52911731291246" intensity="0.9046768612358921" type="1"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw@Work" date="2025-11-25T17:06:58" expNo="1" name="63_clean2_13C_CDCl3_TFA" owner="mattw" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>Manually picked peaks
+</PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="129.99114432332215" intensity="1.7686680377044033" type="1"/>
+  </PeakList1D>
+</PeakList>

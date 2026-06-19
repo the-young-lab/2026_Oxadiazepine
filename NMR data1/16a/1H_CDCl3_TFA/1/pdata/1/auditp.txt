@@ -1,0 +1,74 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr_user
+$$ C:/Bruker/Topspin_data/mwr226/63_pure2_1H_CDCl3_TFA/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-10-29 15:34:31.205 -0400>,<nmr_user>,<FS109819294377>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID 'e6b5311a-b4fd-11f0-8c09-109819294377'
+       started at 2025-10-29 15:31:43.906 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2025-10-29 15:34:31.198 -0400
+
+       configuration hash MD5:
+       98 56 4A 4D 52 CD 56 CB AA 21 A0 B8 31 48 97 61
+       data hash MD5: 64K
+       37 F8 0A D0 E1 5D E5 6C D3 E8 26 0F 33 A8 B3 39>)
+(   2,<2025-10-29 15:34:39.810 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 17.95427 PHC1 = 2.721688 SI = 64K 
+       data hash MD5: 64K
+       58 7A 6E E7 A2 63 87 93 4F C6 A8 F8 18 6C 3B 25>)
+(   3,<2025-10-29 15:34:40.496 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <apk 
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+$$ C:/Bruker/TopSpin4.5.0/data/63_pure2_1H_CDCl3_TFA/1/pdata/1/auditp.txt
+(   4,<2026-01-25T09:54:14.728-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(   5,<2026-01-25T09:54:29.472-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(   6,<2026-01-25T09:54:31.468-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(   7,<2026-01-25T09:54:33.018-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(   8,<2026-01-25T09:54:37.530-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(   9,<2026-01-25T09:57:49.411-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [8.398;8.335]
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(  10,<2026-01-25T09:57:49.426-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.961;7.900]
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(  11,<2026-01-25T09:57:49.438-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.833;7.737]
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(  12,<2026-01-25T09:57:49.455-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.694;7.623]
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(  13,<2026-01-25T09:57:49.486-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.209;7.134]
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+(  14,<2026-01-25T09:57:49.518-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL CALIBRATE [7.961;7.900] 1.000000
+       data hash MD5: 64K
+       5D 49 6B 77 25 35 83 2E DE 8C A9 63 BF 92 16 FE>)
+##END=
+
+$$ hash MD5
+$$ 22 F0 F8 23 10 C1 74 17 7C 49 BD 3D 39 FB 32 E0

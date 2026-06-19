@@ -1,0 +1,50 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr_user
+$$ C:/Bruker/Topspin_data/mwr226/63_clean2_13C_CDCl3_TFA/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-10-29 15:51:42.074 -0400>,<nmr_user>,<FS109819294377>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID '9dffa7d8-b4fe-11f0-a400-109819294377'
+       started at 2025-10-29 15:36:51.446 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2025-10-29 15:51:42.063 -0400
+
+       configuration hash MD5:
+       98 56 4A 4D 52 CD 56 CB AA 21 A0 B8 31 48 97 61
+       data hash MD5: 64K
+       BD 9C 77 9A F7 FE 03 90 C0 40 29 E9 09 86 BD 7B>)
+(   2,<2025-10-29 15:51:57.830 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -73.44846 PHC1 = -53.84497 SI = 32K 
+       data hash MD5: 32K
+       A3 A0 B6 C1 B4 20 56 A7 3B F8 B3 2A B0 12 F4 84>)
+(   3,<2025-10-29 15:51:59.977 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <apk 
+       data hash MD5: 32K
+       22 2F 9C 8E 0E 36 6A 85 3A 7D 92 D6 9E 4D 77 AC>)
+$$ C:/Bruker/TopSpin4.5.0/data/63_clean2_13C_CDCl3_TFA/1/pdata/1/auditp.txt
+(   4,<2025-11-25T17:01:49.494-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Start of interactive peak picking
+       data hash MD5: 32K
+       22 2F 9C 8E 0E 36 6A 85 3A 7D 92 D6 9E 4D 77 AC>)
+(   5,<2025-11-25T17:06:58.246-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Peak added manually at position 130.8644
+       data hash MD5: 32K
+       22 2F 9C 8E 0E 36 6A 85 3A 7D 92 D6 9E 4D 77 AC>)
+(   6,<2025-11-25T17:06:58.259-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <End of interactive peak picking
+       data hash MD5: 32K
+       22 2F 9C 8E 0E 36 6A 85 3A 7D 92 D6 9E 4D 77 AC>)
+(   7,<2026-06-03T13:14:24.867-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Spectrum calibrated, SF was set. Old value: 100.612676 New value: 100.612764. Peak list modified: Yes
+       data hash MD5: 32K
+       22 2F 9C 8E 0E 36 6A 85 3A 7D 92 D6 9E 4D 77 AC>)
+(   8,<2026-06-03T13:14:24.897-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Spectrum calibrated, OFFSET was set. Old value: 220.379800 New value: 219.506576. Peak list modified: Yes
+       data hash MD5: 32K
+       22 2F 9C 8E 0E 36 6A 85 3A 7D 92 D6 9E 4D 77 AC>)
+##END=
+
+$$ hash MD5
+$$ C0 BB 7C E3 29 88 09 4F 08 D7 CE EF F0 50 9B 39

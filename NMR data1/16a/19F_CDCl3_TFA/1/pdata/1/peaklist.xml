@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2025-11-25T17:10:09">
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-25T17:10:09" expNo="1" name="63_clean2_19F_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=-151.756788ppm, F2=-152.855091ppm, MI=0.03cm, MAXI=0.04cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-152.261852" intensity="0.03727324" type="0"/>
+    <Peak1D F1="-152.305007" intensity="0.03801246" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-25T17:10:09" expNo="1" name="63_clean2_19F_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=-153.165481ppm, F2=-153.889724ppm, MI=0.01cm, MAXI=0.03cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-153.579668" intensity="0.01390476" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-25T17:10:09" expNo="1" name="63_clean2_19F_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=-160.185068ppm, F2=-161.458462ppm, MI=0.01cm, MAXI=0.07cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-161.0" intensity="0.01701965" type="0"/>
+    <Peak1D F1="-161.021585" intensity="0.04037269" type="0"/>
+    <Peak1D F1="-161.069757" intensity="0.05980906" type="0"/>
+    <Peak1D F1="-161.11783" intensity="0.04100025" type="0"/>
+    <Peak1D F1="-161.139245" intensity="0.0167304" type="0"/>
+  </PeakList1D>
+</PeakList>
