@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2025-10-16T12:37:08">
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-16T12:37:08" expNo="1" name="57_pure_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=151.358667ppm, F2=147.420045ppm, MI=0.47cm, MAXI=1.90cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="149.599458" intensity="1.556953" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-16T12:37:08" expNo="1" name="57_pure_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=138.013505ppm, F2=135.934633ppm, MI=0.91cm, MAXI=5.61cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="136.994206" intensity="5.006326" type="0"/>
+    <Peak1D F1="136.81777" intensity="1.180981" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-16T12:37:08" expNo="1" name="57_pure_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=133.356469ppm, F2=126.629638ppm, MI=0.59cm, MAXI=7.17cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="132.020188" intensity="2.890219" type="0"/>
+    <Peak1D F1="130.980903" intensity="2.026959" type="0"/>
+    <Peak1D F1="129.65817" intensity="5.682877" type="0"/>
+    <Peak1D F1="128.25917" intensity="5.254481" type="0"/>
+    <Peak1D F1="127.626018" intensity="4.905059" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-16T12:37:08" expNo="1" name="57_pure_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=123.583208ppm, F2=122.681328ppm, MI=2.10cm, MAXI=4.93cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="123.246858" intensity="4.697487" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-16T12:37:08" expNo="1" name="57_pure_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=119.955190ppm, F2=119.037937ppm, MI=2.91cm, MAXI=6.11cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="119.297271" intensity="5.441447" type="0"/>
+  </PeakList1D>
+</PeakList>

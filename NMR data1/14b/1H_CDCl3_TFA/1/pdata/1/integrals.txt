@@ -1,0 +1,11 @@
+   Current data set:
+   NAME =	57_pure_1H_CDCl3_TFA	EXPNO =	1	PROCNO = 1
+   DU   =	C:/Bruker/TopSpin4.5.0/data
+
+   Number   Integrated Region     Integral
+     1      8.551      8.486         0.97217
+     2      8.105      8.044         1.00025
+     3      7.924      7.871         1.00000
+     4      7.774      7.709         1.00948
+     5      7.672      7.611         1.01722
+     6      7.288      7.237         1.09852

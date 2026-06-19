@@ -1,0 +1,138 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr_user
+$$ C:/Bruker/Topspin_data/mwr226/57_pure_1H_CDCl3_TFA/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-10-15 17:15:28.795 -0400>,<nmr_user>,<FS109819294377>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID 'af59255c-aa0b-11f0-9f81-109819294377'
+       started at 2025-10-15 17:12:41.323 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2025-10-15 17:15:28.784 -0400
+
+       configuration hash MD5:
+       98 56 4A 4D 52 CD 56 CB AA 21 A0 B8 31 48 97 61
+       data hash MD5: 64K
+       CC A9 FB D4 54 E7 EC 8F 3B 8B 77 DB 9C EC 9B BF>)
+(   2,<2025-10-15 17:15:30.529 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 14.46871 PHC1 = 2.001951 SI = 64K 
+       data hash MD5: 64K
+       F1 04 7E 32 1F AB 17 37 4B EC 7E 17 DC 1F AD A5>)
+(   3,<2025-10-15 17:15:31.375 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <apk 
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+$$ C:/Bruker/TopSpin4.5.0/data/57_pure_1H_CDCl3_TFA/1/pdata/1/auditp.txt
+(   4,<2025-10-16T12:12:53.749-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(   5,<2025-10-16T12:12:57.213-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(   6,<2025-10-16T12:13:02.419-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(   7,<2025-10-16T12:13:07.245-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(   8,<2025-10-16T12:13:10.818-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(   9,<2025-10-16T12:13:53.611-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  10,<2025-10-16T12:14:02.271-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  11,<2025-10-16T12:14:05.916-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  12,<2025-10-16T12:17:14.570-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  13,<2025-10-16T12:17:14.590-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  14,<2025-10-16T12:17:14.613-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  15,<2025-10-16T12:18:34.762-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Spectrum calibrated, SF was set. Old value: 400.130003 New value: 400.130010. Peak list modified: Yes
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  16,<2025-10-16T12:18:34.778-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Spectrum calibrated, OFFSET was set. Old value: 16.179820 New value: 16.163880. Peak list modified: Yes
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  17,<2025-10-16T12:20:52.778-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [8.550;8.483]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  18,<2025-10-16T12:20:52.797-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [8.105;8.044]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  19,<2025-10-16T12:20:52.835-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DELETE [7.674;7.609]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  20,<2025-10-16T12:20:52.894-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.924;7.871]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  21,<2025-10-16T12:20:52.959-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.774;7.709]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  22,<2025-10-16T12:20:52.997-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.674;7.609]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  23,<2025-10-16T12:20:53.019-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [11.166;11.027]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  24,<2025-10-16T12:20:53.035-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.288;7.237]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  25,<2025-10-16T12:20:53.061-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DELETE [11.166;11.027]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  26,<2025-10-16T12:20:53.076-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [7.672;7.611]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  27,<2025-10-16T12:22:09.537-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL CALIBRATE [7.774;7.709] 1.000000
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  28,<2025-10-16T12:22:09.553-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DELETE [8.550;8.483]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  29,<2025-10-16T12:22:09.564-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [8.551;8.486]
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+(  30,<2025-10-16T12:22:09.601-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL CALIBRATE [7.924;7.871] 1.000000
+       data hash MD5: 64K
+       57 F6 CE 60 CF 65 8F F9 7A 1E 0C D2 B3 9D 16 92>)
+##END=
+
+$$ hash MD5
+$$ A4 4A 79 61 32 3F 7F 70 C0 3D 58 FE 5B 76 7A 84
