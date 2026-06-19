@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2025-10-02T13:12:01">
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-02T13:04:22" expNo="1" name="42_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=180.726174ppm, F2=176.959908ppm, MI=0.50cm, MAXI=2.44cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="178.645963" intensity="0.9427099" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-02T13:04:22" expNo="1" name="42_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=150.213962ppm, F2=144.428105ppm, MI=2.94cm, MAXI=6.31cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="147.396607" intensity="5.358177" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-10-02T13:04:22" expNo="1" name="42_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>F1=137.550576ppm, F2=121.339258ppm, MI=0.74cm, MAXI=10.15cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="132.853317" intensity="3.897785" type="0"/>
+    <Peak1D F1="131.127064" intensity="6.664243" type="0"/>
+    <Peak1D F1="129.625552" intensity="6.656599" type="0"/>
+    <Peak1D F1="128.414857" intensity="3.974764" type="0"/>
+    <Peak1D F1="128.068479" intensity="6.089126" type="0"/>
+    <Peak1D F1="123.987997" intensity="6.048577" type="0"/>
+    <Peak1D F1="122.716046" intensity="5.841065" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw@Work" date="2025-10-02T13:12:05" expNo="1" name="42_clean_13C_CDCl3_TFA" owner="mattw" procNo="1" source="C:/Bruker/TopSpin4.5.0/data">
+      <PeakPickDetails>Manually picked peaks
+</PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="128.075302588534" intensity="5.792303520406534" type="1"/>
+  </PeakList1D>
+</PeakList>

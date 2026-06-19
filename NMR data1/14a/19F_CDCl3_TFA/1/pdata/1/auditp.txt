@@ -1,0 +1,82 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr_user
+$$ C:/Bruker/Topspin_data/mwr226/42_clean_19F_CDCl3_TFA/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-10-01 13:15:33.614 -0400>,<nmr_user>,<FS109819294377>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID '28064944-9eea-11f0-92c3-109819294377'
+       started at 2025-10-01 13:14:58.202 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2025-10-01 13:15:33.605 -0400
+
+       configuration hash MD5:
+       65 D7 59 5E 63 30 92 74 2B DF A3 43 56 6B AA AC
+       data hash MD5: 128K
+       7C 92 78 9C E0 62 F2 7A FD 72 54 73 85 84 4D EE>)
+(   2,<2025-10-01 13:15:34.402 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -84.3502 PHC1 = -448.1415 SI = 64K 
+       data hash MD5: 64K
+       BB D5 58 11 2F 6C E5 FD 3E 5C 93 0C 11 FB C1 7A>)
+(   3,<2025-10-01 13:15:37.317 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <apk 
+       data hash MD5: 64K
+       66 59 26 E0 D2 19 46 77 70 38 F4 26 00 E9 60 0B>)
+$$ C:/Bruker/TopSpin4.5.0/data/42_clean_19F_CDCl3_TFA/1/pdata/1/auditp.txt
+(   4,<2025-10-02T13:21:33.230-0400>,<mattw>,<Work>,<proc1d>,<TopSpin 4.5.0>,
+      <pk fgphup PHC0 = -21.28291 PHC1 = 19.2
+       data hash MD5: 64K
+       3E 37 78 45 D0 69 EE 59 6E E3 C8 15 84 54 DB 6E>)
+(   5,<2025-10-02T13:23:22.148-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       3E 37 78 45 D0 69 EE 59 6E E3 C8 15 84 54 DB 6E>)
+(   6,<2025-10-02T13:23:30.370-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       3E 37 78 45 D0 69 EE 59 6E E3 C8 15 84 54 DB 6E>)
+(   7,<2025-10-02T13:23:40.635-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       3E 37 78 45 D0 69 EE 59 6E E3 C8 15 84 54 DB 6E>)
+(   8,<2025-10-02T13:23:48.668-0400>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       3E 37 78 45 D0 69 EE 59 6E E3 C8 15 84 54 DB 6E>)
+(   9,<2025-10-02T13:24:02.459-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       3E 37 78 45 D0 69 EE 59 6E E3 C8 15 84 54 DB 6E>)
+(  10,<2025-10-02T18:07:53.590-0400>,<mattw>,<Work>,<proc1d>,<TopSpin 4.5.0>,
+      <pk fgphup PHC0 = 12.02993 PHC1 = -16
+       data hash MD5: 64K
+       EA 08 2D D1 D8 85 59 59 11 57 95 34 8C 04 BC 20>)
+(  11,<2025-10-02T18:11:21.571-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Spectrum calibrated, SF was set. Old value: 376.498555 New value: 376.498300. Peak list modified: Yes
+       data hash MD5: 64K
+       EA 08 2D D1 D8 85 59 59 11 57 95 34 8C 04 BC 20>)
+(  12,<2025-10-02T18:11:21.583-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Spectrum calibrated, OFFSET was set. Old value: 18.072170 New value: 18.749190. Peak list modified: Yes
+       data hash MD5: 64K
+       EA 08 2D D1 D8 85 59 59 11 57 95 34 8C 04 BC 20>)
+(  13,<2025-10-02T18:15:07.055-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [-152.549;-152.871]
+       data hash MD5: 64K
+       EA 08 2D D1 D8 85 59 59 11 57 95 34 8C 04 BC 20>)
+(  14,<2025-10-02T18:15:07.073-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [-157.963;-158.272]
+       data hash MD5: 64K
+       EA 08 2D D1 D8 85 59 59 11 57 95 34 8C 04 BC 20>)
+(  15,<2025-10-02T18:15:07.103-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL DEFINE [-161.616;-161.906]
+       data hash MD5: 64K
+       EA 08 2D D1 D8 85 59 59 11 57 95 34 8C 04 BC 20>)
+(  16,<2025-10-02T18:15:07.154-0400>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <INTEGRAL CALIBRATE [-157.963;-158.272] 1.000000
+       data hash MD5: 64K
+       EA 08 2D D1 D8 85 59 59 11 57 95 34 8C 04 BC 20>)
+##END=
+
+$$ hash MD5
+$$ CC 4B AC 79 5D 41 CD 59 AA 40 6A 1D 70 92 66 B4
