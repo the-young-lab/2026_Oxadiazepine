@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2025-11-24T08:54:17">
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=145.632880ppm, F2=141.661909ppm, MI=4.30cm, MAXI=9.33cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="143.263305" intensity="7.495725" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=141.661909ppm, F2=140.674362ppm, MI=0.30cm, MAXI=0.49cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="141.123493" intensity="0.4187447" type="0"/>
+    <Peak1D F1="140.885002" intensity="0.4083511" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=140.265722ppm, F2=139.414388ppm, MI=0.36cm, MAXI=0.61cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="139.74683" intensity="0.4239734" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=139.022775ppm, F2=138.920615ppm, MI=0.39cm, MAXI=0.59cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="173.74958702285676" intensity="3.103251434088157" type="1"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=138.631162ppm, F2=138.460895ppm, MI=0.39cm, MAXI=0.59cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="138.564033" intensity="0.46922" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=137.456321ppm, F2=136.928494ppm, MI=0.36cm, MAXI=0.56cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="137.201355" intensity="0.4362012" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=135.561671ppm, F2=126.929206ppm, MI=0.82cm, MAXI=11.50cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="133.227865" intensity="9.520195" type="0"/>
+    <Peak1D F1="131.997355" intensity="1.946997" type="0"/>
+    <Peak1D F1="131.266575" intensity="4.414638" type="0"/>
+    <Peak1D F1="131.178481" intensity="9.165559" type="0"/>
+    <Peak1D F1="129.438557" intensity="5.077292" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=126.449625ppm, F2=120.215067ppm, MI=2.86cm, MAXI=10.58cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="124.866129" intensity="8.535449" type="0"/>
+    <Peak1D F1="124.060855" intensity="8.016085" type="0"/>
+    <Peak1D F1="121.241189" intensity="5.587245" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mattw" date="2025-11-24T08:54:17" expNo="1" name="56_clean_13C_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/TopSpin4.5.0/data/Clean Spectra">
+      <PeakPickDetails>F1=119.714529ppm, F2=119.254809ppm, MI=0.42cm, MAXI=0.52cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="119.484888" intensity="0.4809422" type="0"/>
+  </PeakList1D>
+</PeakList>

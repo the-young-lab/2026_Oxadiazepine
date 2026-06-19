@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2025-10-21T15:52:38">
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user" date="2025-10-21T15:52:38" expNo="1" name="56_clean_19F_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>F1=-151.027420ppm, F2=-153.693909ppm, MI=0.02cm, MAXI=0.29cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-152.20225349986563" intensity="0.1821062" type="0"/>
+    <Peak1D F1="-152.24313249986565" intensity="0.1858457" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user" date="2025-10-21T15:52:38" expNo="1" name="56_clean_19F_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>F1=-156.525742ppm, F2=-156.893204ppm, MI=0.05cm, MAXI=0.27cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-156.68156249986563" intensity="0.07937648" type="0"/>
+    <Peak1D F1="-156.73733349986563" intensity="0.1571591" type="0"/>
+    <Peak1D F1="-156.79359249986564" intensity="0.0845072" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr_user" date="2025-10-21T15:52:38" expNo="1" name="56_clean_19F_CDCl3_TFA" owner="" procNo="1" source="C:/Bruker/Topspin_data/mwr226">
+      <PeakPickDetails>F1=-161.384689ppm, F2=-161.757080ppm, MI=0.02cm, MAXI=0.27cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-161.54110549986567" intensity="0.05534182" type="0"/>
+    <Peak1D F1="-161.55314449986562" intensity="0.08494471" type="0"/>
+    <Peak1D F1="-161.56321549986566" intensity="0.1917072" type="0"/>
+    <Peak1D F1="-161.60340749986565" intensity="0.2326341" type="0"/>
+    <Peak1D F1="-161.61959649986565" intensity="0.1791434" type="0"/>
+    <Peak1D F1="-161.65850649986564" intensity="0.1463757" type="0"/>
+    <Peak1D F1="-161.67019549986563" intensity="0.08356885" type="0"/>
+    <Peak1D F1="-161.68200549986565" intensity="0.04332532" type="0"/>
+  </PeakList1D>
+</PeakList>

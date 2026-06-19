@@ -1,0 +1,78 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr_user
+$$ C:/Bruker/Topspin_data/mwr226/56_clean_13C_CDCl3_TFA/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-10-21 15:43:11.327 -0400>,<nmr_user>,<FS109819294377>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID '1a2b2f36-aeb4-11f0-9970-109819294377'
+       started at 2025-10-21 15:28:20.521 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2025-10-21 15:43:11.326 -0400
+
+       configuration hash MD5:
+       98 56 4A 4D 52 CD 56 CB AA 21 A0 B8 31 48 97 61
+       data hash MD5: 64K
+       55 C1 95 12 B4 33 33 AB F8 17 6E 6A 30 46 E1 21>)
+(   2,<2025-10-21 15:43:19.402 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -66.74646 PHC1 = -71.10214 SI = 32K 
+       data hash MD5: 32K
+       88 E9 61 C0 6C C5 28 8C 75 B7 A3 3E FE CA C7 BD>)
+(   3,<2025-10-21 15:43:20.531 -0400>,<nmr_user>,<FS109819294377>,<proc1d>,<TopSpin 3.7.0>,
+      <apk 
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(   4,<2025-10-21 15:56:43.769 -0400>,<nmr_user>,<FS109819294377>,<dataserver>,<TopSpin 3.7.0>,
+      <Spectrum calibrated, SF was set. Old value: 100.612676 New value: 100.612763. Peak list modified: Yes
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(   5,<2025-10-21 15:56:43.775 -0400>,<nmr_user>,<FS109819294377>,<dataserver>,<TopSpin 3.7.0>,
+      <Spectrum calibrated, OFFSET was set. Old value: 220.379800 New value: 219.516953. Peak list modified: Yes
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+$$ C:/Bruker/TopSpin4.5.0/data/Clean Spectra/56_clean_13C_CDCl3_TFA/1/pdata/1/auditp.txt
+(   6,<2025-11-19T08:47:06.022-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Start of interactive peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(   7,<2025-11-19T08:47:20.645-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <End of interactive peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(   8,<2025-11-24T08:53:35.957-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Start of interactive peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(   9,<2025-11-24T08:53:43.806-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(  10,<2025-11-24T08:53:45.550-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(  11,<2025-11-24T08:53:47.511-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(  12,<2025-11-24T08:54:14.813-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(  13,<2025-11-24T08:54:17.920-0500>,<mattw>,<Work>,<peak>,<TopSpin 4.5.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(  14,<2025-11-24T08:56:03.304-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <Delete peaks within defined region
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+(  15,<2025-11-24T08:56:03.348-0500>,<mattw>,<Work>,<dataserver>,<TopSpin 4.5.0>,
+      <End of interactive peak picking
+       data hash MD5: 32K
+       1A 22 AC 90 D2 58 C0 53 96 86 45 1C 34 49 ED 54>)
+##END=
+
+$$ hash MD5
+$$ F8 8C ED 5B C9 6B E5 53 80 48 20 FE 3F 04 56 35

@@ -1,0 +1,4 @@
+# 2025-11-19 08:44:13 -0500 mattw@Work
+# TOPSPIN Molecule to PPM ranges correlations
+# C:/Bruker/TopSpin4.5.0/data/Clean Spectra/56_clean_1H_CDCl3_TFA/1/pdata/1
+# Start [PPM]     End [PPM]     Atom Numbers

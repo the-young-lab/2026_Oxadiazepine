@@ -1,0 +1,19 @@
+# 2025-11-19 08:56:02 -0500 mattw@Work
+# TOPSPIN Daisy Multiplet Table
+# C:/Bruker/TopSpin4.5.0/data/Clean Spectra/56_clean_19F_CDCl3_TFA/1/pdata/1
+
+1D TopSPIN Multiplet Table
+
+----------------------------------------------------------------------
+Number    Shift [ppm]    J [Hz]    M         Connection     Identifier
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+1D TopSPIN Multiplet Lines Table
+
+--------------------------
+Number      Position [ppm]
+--------------------------
+--------------------------
